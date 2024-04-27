@@ -1,4 +1,2 @@
-hi
-hello
-welcome
-bye bye
+hi 
+This is a modified file
